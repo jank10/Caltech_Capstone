@@ -1,0 +1,11 @@
+Material_ID,Material,Price_per_kg,Stock_kg,Supplier
+M001,Aluminum,2.5,1000,MetalWorks Ltd.
+M002,Copper,8,500,CopperSource Inc.
+M003,Plastic (PET),1.2,3000,EcoPlastics Co.
+M004,Steel,3.5,2000,SteelMakers AG.
+M005,Glass,0.8,1500,GlassTech GmbH.
+M006,Lead,2.8,800,LeadRefine Ltd.
+M007,Paper,0.5,5000,PaperCycle Co.
+M008,Electronic Waste,10,300,E-Waste Solutions.
+M009,Textiles,1,2000,FabricReclaim Ltd.
+M010,Wood,0.9,4000,TimberCycle AG.
